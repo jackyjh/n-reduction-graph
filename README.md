@@ -10,12 +10,14 @@ which is particularly suitable for evaluating the role of hyperedges with orders
 ## Dependencies
 Compatible with Python 3.x.
 
-## Citation:
+## Citation
 If you use this project in your research, please cite:
-'''bibtex
+
+```bibtex
 @article{bian2024beyond,
-  title={Beyond Pairwise Interactions: Unveiling the Role of Higher-Order Interactions via Stepwise Reduction},
-  author={Bian, Junhap and Zhou, Tao and Bi, Yilin},
-  journal={arXiv preprint arXiv:2411.05685},
-  year={2024}
+  title = {Beyond Pairwise Interactions: Unveiling the Role of Higher-Order Interactions via Stepwise Reduction},
+  author = {Bian, Junhap and Zhou, Tao and Bi, Yilin},
+  journal = {arXiv preprint arXiv:2411.05685},
+  year = {2024}
 }
+
