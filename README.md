@@ -3,3 +3,13 @@ Source code for paper: [Unveiling the Role of Higher-Order Interactions via Step
 
 ![The process to construct the n-reduced graph](Fig1.png)
 
+Overview of n-reduced graph: the n-reduced graph is an approximated representation of the original hypergraph
+that consists of hyperedges of orders no greater than n, with the goal of minimizing information loss,
+which is particularly suitable for evaluating the role of hyperedges with orders larger than a threshold.
+
+## Dependencies
+Compatible with Python 3.x.
+
+## Citation:
+
+
