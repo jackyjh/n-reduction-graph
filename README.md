@@ -12,6 +12,7 @@ Compatible with Python 3.x.
 
 ## Citation:
 If you use this project in your research, please cite:
+'''bibtex
 @article{bian2024beyond,
   title={Beyond Pairwise Interactions: Unveiling the Role of Higher-Order Interactions via Stepwise Reduction},
   author={Bian, Junhap and Zhou, Tao and Bi, Yilin},
