@@ -1,6 +1,6 @@
 # Unveiling the Role of Higher-Order Interactions via Stepwise Reduction
 [![DOI](https://img.shields.io/badge/arXiv-2411.05685-B31B1B.svg)](https://doi.org/10.48550/arXiv.2411.05685)
-[![DOI](https://tpc.googlesyndication.com/simgad/8183604499912225610.svg)](https://doi.org/10.1038/s42005-025-02157-3)
+[![Communications Physics](https://img.shields.io/badge/Communications%20Physics-10.1038%2Fs42005-025-02157-3-B31B1B.svg)](https://doi.org/10.1038/s42005-025-02157-3)
 
 
 Source code for paper: [Unveiling the Role of Higher-Order Interactions via Stepwise Reduction](https://doi.org/10.1038/s42005-025-02157-3)
