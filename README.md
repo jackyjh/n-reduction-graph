@@ -18,10 +18,10 @@ Compatible with Python 3.x.
 If you use this project in your research, please cite:
 
 ```bibtex
-@article{bian2024beyond,
+@article{bian2025,
   title = {Unveiling the Role of Higher-Order Interactions via Stepwise Reduction},
   author = {Bian, Junhao and Zhou, Tao and Bi, Yilin},
-  journal = {arXiv preprint arXiv:2411.05685},
-  year = {2024}
+  journal = {Communications Physics},
+  year = {2025}
 }
 
