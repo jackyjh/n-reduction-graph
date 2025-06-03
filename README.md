@@ -17,11 +17,5 @@ Compatible with Python 3.x.
 ## Citation
 If you use this project in your research, please cite:
 
-```bibtex
-@article{bian2025,
-  title = {Unveiling the Role of Higher-Order Interactions via Stepwise Reduction},
-  author = {Bian, Junhao and Zhou, Tao and Bi, Yilin},
-  journal = {Communications Physics},
-  year = {2025}
-}
+Bian, J., Zhou, T. & Bi, Y. Unveiling the role of higher-order interactions via stepwise reduction. Commun Phys 8, 228 (2025). https://doi.org/10.1038/s42005-025-02157-3
 
